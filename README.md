@@ -4,6 +4,6 @@ Our approach is based on the proposition that business success depends on what y
 
 # Tasks Completed in -
 
-Data Quality Assessment (Assessment of data quality and completeness in preparation for analysis)
-Data Insights (Targeting high value customers based on customer demographics and attributes.)
-Data Insights and Presentation (Using visualization tools such as Tableau/PowerBI to present insights.)
+1. Data Quality Assessment (Assessment of data quality and completeness in preparation for analysis)
+2. Data Insights (Targeting high value customers based on customer demographics and attributes.)
+3. Data Insights and Presentation (Using visualization tools such as Tableau/PowerBI to present insights.)
